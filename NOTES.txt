@@ -1,0 +1,5 @@
+This is an EARLY prototype to test out the MOST BASIC elements of the game. The background is a simple texture to prove the game is scrolling through the level.
+
+The blue blocks are just there to make it less boring.
+
+The red baddies do nothing other than fly around and interact with nothing. Since I dont know yet what kinds of obstacles this game will have, I just added these for funsies.
