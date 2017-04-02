@@ -3,9 +3,9 @@ Pong Scroller is a Co-Op Pong/Galaga type game where players must keep the ball 
 
 This is a game created by GAX team members from Santa Monica College.
 
-Team Members:
-  Designer -
-  Artist -
-  Programmer - Andres Borges
-  Colorist -
-  Audio -
+Team Members:<br>
+  Designer - <br>
+  Artist - <br>
+  Programmer - Andres Borges<br>
+  Colorist - <br>
+  Audio - <br>
