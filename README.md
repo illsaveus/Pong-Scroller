@@ -1,2 +1,11 @@
 # Pong-Scroller
-Pong Scroller is a Co-Op Pong/Galage type game where players must keep the ball alive and take out enemies in a scrolling playing field. This is a game created by GAX team members where I am currently playing the role as the Head Programmer (and likely sole programmer) for the project. 
+Pong Scroller is a Co-Op Pong/Galaga type game where players must keep the ball alive and take out enemies in a scrolling playing field.
+
+This is a game created by GAX team members from Santa Monica College.
+
+Team Members:
+  Designer -
+  Artist -
+  Programmer - Andres Borges
+  Colorist -
+  Audio -
