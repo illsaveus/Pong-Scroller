@@ -1,0 +1,10 @@
+Yes I'm getting a bit ahead of myself making this, but I'm trying to limit the scope of this EARLY prototype to what I know for sure will be in the game, that's why the baddies don't really do anything but fly around and aren't even mentioned in this TODO list since I just don't know what they are going to do.
+This TODO list is limited to things I know the game will have, I'm not worried about level design, baddies, scoring, etc.
+I only care about the mechanics of the ball, paddles, and scrolling level. The only three elements I know will be a major part of the game for sure.
+
+
+1. Paddles don't move along with the scene and therefore scroll to the left
+2. Ball moves faster going left than going right
+3. No instruction on how to move paddles
+4. Lives/health aren't displayed
+5. 
