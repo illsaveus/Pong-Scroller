@@ -7,5 +7,5 @@ This is a game created by GAX team members from Santa Monica College.
   Designer - Brandon Benon<br>
   Artist - Zane Parker<br>
   Programmer - Andres Borges<br>
-  Colorist - Ryan Steele<br>
+  Colorist - Elvis Amaya<br>
   Audio - Ryan Steele<br>
